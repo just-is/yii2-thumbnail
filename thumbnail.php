@@ -1,6 +1,6 @@
 <?php
 
-namespace edoriansyah\bs;
+namespace just-is\bs;
 
 use \yii\bootstrap\Widget;
 
