@@ -1,6 +1,6 @@
 <?php
 
-namespace just-is\bs;
+namespace justispratomo\bs;
 
 use \yii\bootstrap\Widget;
 
